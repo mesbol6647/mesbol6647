@@ -21,6 +21,13 @@
 ![Static Badge](https://img.shields.io/badge/react_bootstrap-crimson?style=flat&logo=react&color=crimson&cacheSeconds=4800)
 ![Static Badge](https://img.shields.io/badge/sass-crimson?style=flat&logo=sass&color=crimson&cacheSeconds=4800)
 ![Static Badge](https://img.shields.io/badge/tailwind_css-crimson?style=flat&logo=tailwind-css&color=crimson&cacheSeconds=4800)
+![Static Badge](https://img.shields.io/badge/formik-crimson?style=flat&logo=formik)
+![Static Badge](https://img.shields.io/badge/yup-crimson?style=flat&logo=yup)
+![Static Badge](https://img.shields.io/badge/typescript-crimson?style=flat&logo=typescript)
+![Static Badge](https://img.shields.io/badge/figma-crimson?style=flat&logo=figma)
+![Static Badge](https://img.shields.io/badge/Next.js-crimson?style=flat&logo=Next.js)
+![Static Badge](https://img.shields.io/badge/cypress-crimson?style=flat&logo=cypress)
+<br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mesbol6647&show_icons=true&locale=en&layout=compact" alt="mesbol6647" /></p>
 
