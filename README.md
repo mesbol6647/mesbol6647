@@ -1,6 +1,9 @@
 <img src="https://github.com/mesbol6647/mesbol6647/blob/main/images/mesut-bolat.png" width="100%"></br>
-
-<h3 align="center">A passionate fullstackdeveloper from Turkey</h3>
+## ***About Me***
+<p align="left"> 
+Hello, I'm Mesut, a fullstack developer. With a background in mechanical engineering, I honed my skills in solving complex problems and analytical thinking. Driven by my passion for software development, I now create user-friendly and efficient web applications using both backend and frontend technologies. Embracing continuous learning and innovation, I strive to take my projects to the next level. As I continue to grow and contribute in this field, my interest in new technologies keeps me motivated every day.I document the progress of my projects here. <br> 
+Happy coding!👩‍💻 
+ <br>  <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mesbol6647&label=Profile%20views&color=0e75b6&style=flat" alt="mesbol6647" /> </p>
 
