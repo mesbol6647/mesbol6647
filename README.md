@@ -27,6 +27,16 @@
 ![Static Badge](https://img.shields.io/badge/figma-crimson?style=flat&logo=figma)
 ![Static Badge](https://img.shields.io/badge/Next.js-crimson?style=flat&logo=Next.js)
 ![Static Badge](https://img.shields.io/badge/cypress-crimson?style=flat&logo=cypress)
+![Static Badge](https://img.shields.io/badge/postman-blue?style=flat&logo=postman)
+![Static Badge](https://img.shields.io/badge/python-blue?style=flat&logo=python)
+![Static Badge](https://img.shields.io/badge/Node.js-blue?style=flat&logo=Node.js)
+![Static Badge](https://img.shields.io/badge/Express.js-blue?style=flat&logo=Express.js)
+![Static Badge](https://img.shields.io/badge/Sequelize-blue?style=flat&logo=Sequelize)
+![Static Badge](https://img.shields.io/badge/Mongoose-blue?style=flat&logo=Mongoose)
+![Static Badge](https://img.shields.io/badge/ORM-blue?style=flat&logo=ORM)
+![Static Badge](https://img.shields.io/badge/ODM-blue?style=flat&logo=ODM)
+![Static Badge](https://img.shields.io/badge/JWT-blue?style=flat&logo=JWT)
+
 <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mesbol6647&show_icons=true&locale=en&layout=compact" alt="mesbol6647" /></p>
