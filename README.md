@@ -60,8 +60,7 @@ Happy coding!👩‍💻
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mesbol6647&" alt="mesbol6647" /></p>
 
 ## My projects
-  Project Name       |Libraries and Technologies I use     |How does my project look   
- FULLSTACK(MERN-PROJECTS)
+  Project Name       |Libraries and Technologies I use     |How does my project look    
 :-------------------------|-------------------------|-------------------------
 [Rent A Car Project-MERN-03](https://rentacar6647.vercel.app/)|NodeJS, MongoDB, Express, React,React-Redux|![](https://github.com/mesbol6647/MERN-03-RentaCar-.git)
 [Hotel Booking-MERN-02](https://paradisehotel.vercel.app/)|React Redux, Material Ui,NodeJS,MongoDB,Express, Formik, Yup|![](https://github.com/mesbol6647/MERN-02-HotelReservations-.git)
