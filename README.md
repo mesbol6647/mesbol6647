@@ -52,13 +52,6 @@ Happy coding!👩‍💻
 ![Static Badge](https://img.shields.io/badge/SQLite3-orange?style=flat&logo=SQLite3)
 ![Static Badge](https://img.shields.io/badge/MongoDB-orange?style=flat&logo=MongoDB)
 ![Static Badge](https://img.shields.io/badge/MySQL-orange?style=flat&logo=MySQL)
-
-<br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mesbol6647&show_icons=true&locale=en&layout=compact" alt="mesbol6647" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mesbol6647&" alt="mesbol6647" /></p>
-
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look  
 :-------------------------|-------------------------|-------------------------
@@ -66,7 +59,15 @@ Happy coding!👩‍💻
 [Rent A Car Project-MERN-03](https://rentacar6647.vercel.app/)|NodeJS, MongoDB, Express, React,React-Redux|![](https://github.com/mesbol6647/MERN-03-RentaCar-.git)
 [Hotel Booking-MERN-02](https://paradisehotel.vercel.app/)|React Redux, Material Ui,NodeJS,MongoDB,Express, Formik, Yup|![](https://github.com/mesbol6647/MERN-02-HotelReservations-.git)
 [StokApp-MERN-01](https://mern-01-stokapp.onrender.com/)|React Redux , Hooks,NodeJS, MongoDB, Express, React|![]()
-**BACKEND PROJECTS-(NODEJS)** 
+**BACKEND PROJECTS-(NODEJS)**
+[STOCKAPP API-BE-08](https://rentacar6647.vercel.app/)|Email, MongoDB, Express, NodeMailer,Permission|![](https://github.com/mesbol6647/MERN-03-RentaCar-.git)
+[HOTEL API-BE-07](https://paradisehotel.vercel.app/)|SwaggerUI,NodeJS,MongoDB,Express, Token, JWT|![](https://github.com/mesbol6647/MERN-02-HotelReservations-.git)
+[RENT A CAR API-BE-06](https://rentacar6647.vercel.app/)|NodeJS, MongoDB, Express, Authorization,Distinct|![](https://github.com/mesbol6647/MERN-03-RentaCar-.git)
+[PIZZA API(With JWT)-BE-05](https://paradisehotel.vercel.app/)|Upload, JWT,NodeJS,MongoDB,Express,Bearer, Token|![](https://github.com/mesbol6647/MERN-02-HotelReservations-.git)
+[PIZZA API-BE-04](https://mern-01-stokapp.onrender.com/)|NodeJS, MongoDB, Express, Logs|![]()
+[BLOG API-BE-03](https://rentacar6647.vercel.app/)|Search,Sorting, Cookie,Filter,Session|![](https://github.com/mesbol6647/MERN-03-RentaCar-.git)
+[PERSONNEL API(With Token)-BE-02](https://paradisehotel.vercel.app/)|NodeJS,MongoDB,Express, Token, Logging|![](https://github.com/mesbol6647/MERN-02-HotelReservations-.git)
+[PERSONNEL API-BE-01](https://mern-01-stokapp.onrender.com/)|Dotenv ,NodeJS, MongoDB, Express, Error Handling|![]()
 **FRONTEND PROJECTS-(REACT)** 
 [ADD-TUTORIAL-RC-09](https://nbalegends6647.netlify.app/)|Bootstrap5 ,Filtering,UseState,Ternary, Props Drilling, ReactIcons|![GifRc9](https://github.com/mesbol6647/RC-09-Add-Tutorial-/blob/main/tutpc.png )
 [TOUR APPOİNTMENT-RC-08](https://tourappointment6647.netlify.app/)|Bootstrap5 ,Filtering,UseState, Ternary, Props Drilling, ReactJs|![GifRc8](https://github.com/mesbol6647/mesbol6647/blob/main/images/TourAppointment.png)
@@ -76,7 +77,13 @@ Happy coding!👩‍💻
 [LANGUAGE CARDS-RC-04](https://languagecards6647.netlify.app/)|Bootstrap5 ,Filtering,UseState, Ternary, Props Drilling, ReactJs|![GifRc4](https://github.com/mesbol6647/RC-04-LanguageCards-/blob/main/languages.gif)
 [PRODUCT LIST-RC-03](https://produclist6647.netlify.app/)|Javascript ,Filtering,Sass, Css3, Props Drilling, ReactJs|![GifRc3](https://github.com/mesbol6647/RC-03-Product-List-/blob/main/productlist.gif)
 [POPULAR TOURS-RC-02](https://populartours6647.netlify.app/)|Css-Flexbox ,Css Animations,CSS-Grid-Layout, Sass-Framework, Props Drilling, ReactJs|![GifRc2](https://github.com/mesbol6647/RC-02-Popular-Tour-/blob/main/porulartour.gif)
-[NBA LEGENDS-RC-01](https://horoscope6647-2.netlify.app/)|Bootstrap5 ,Filtering,UseState, Ternary, Props Drilling, ReactJs|![GifRc1](https://github.com/mesbol6647/mesbol6647/blob/main/images/Horoscope.png)
+[HOROSCOPE-RC-01](https://horoscope6647-2.netlify.app/)|Bootstrap5 ,Filtering,UseState, Ternary, Props Drilling, ReactJs|![GifRc1](https://github.com/mesbol6647/mesbol6647/blob/main/images/Horoscope.png)
+<br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mesbol6647&show_icons=true&locale=en&layout=compact" alt="mesbol6647" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mesbol6647&" alt="mesbol6647" /></p>
+
 
 
 
