@@ -56,9 +56,9 @@ Happy coding!👩‍💻
   Project Name       |Libraries and Technologies I use     |How does my project look  
 :-------------------------|-------------------------|-------------------------
 **FULLSTACK PROJECTS-(MERN)** 
-[Rent A Car Project-MERN-03](https://rentacar6647.vercel.app/)|NodeJS, MongoDB, Express, React,React-Redux|![gifproje](https://github.com/mesbol6647/mesbol6647/blob/main/images/mern%20rentacar.gif)
+[Rent A Car Project-MERN-03](https://rentacar6647.vercel.app/)|NodeJS, MongoDB, MUI, React,React-Redux|![gifproje](https://github.com/mesbol6647/mesbol6647/blob/main/images/mern%20rentacar.gif)
 [Hotel Booking-MERN-02](https://paradisehotel.vercel.app/)|React Redux, Material Ui,NodeJS,MongoDB,Express, Formik, Yup|![projegif2](https://github.com/mesbol6647/mesbol6647/blob/main/images/mern%20hotel.gif)
-[StokApp-MERN-01](https://mern-01-stokapp.onrender.com/)|React Redux , Hooks,NodeJS, MongoDB, Express, React|![gif3](https://github.com/mesbol6647/mesbol6647/blob/main/images/stock.png)
+[StokApp-MERN-01](https://mern-01-stokapp.onrender.com/)|React Redux , MUI,NodeJS, MongoDB, Express, React|![gif3](https://github.com/mesbol6647/mesbol6647/blob/main/images/stock.png)
 **BACKEND PROJECTS-(NODEJS)**
 [STOCKAPP API-BE-08](https://rentacar6647.vercel.app/)|Email, MongoDB, Express, NodeMailer,Permission|![](https://github.com/mesbol6647/MERN-03-RentaCar-.git)
 [HOTEL API-BE-07](https://paradisehotel.vercel.app/)|SwaggerUI,NodeJS,MongoDB,Express, Token, JWT|![](https://github.com/mesbol6647/MERN-02-HotelReservations-.git)
